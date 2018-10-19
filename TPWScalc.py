@@ -47,4 +47,5 @@ print(decel, "decel")
 print((brakechar/100)*gravity, "brakechar")
 
 #now have v=0, u=start, a so find t, then use that to find s(distance)
+#Test editing line 
 #os.system('cls')
