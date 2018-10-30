@@ -1,6 +1,7 @@
 #Headway Calc
 #test
 
+#potential code for inputting the signal names below:
 signum=input("What is the num ber of signals required?")
 siglist=[]
 signumend=0
