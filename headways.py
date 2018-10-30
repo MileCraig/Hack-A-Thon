@@ -1,3 +1,6 @@
+#File orgininally created by J Craigmile, Please use this only for reference purposes as it is imperfect and incomplete
+#Currently this uses many assumptions that are completely inaccurate for use in the real world.
+
 # -*- coding: utf-8 -*-
 """
 Created on Wed Oct 17 07:43:31 2018
